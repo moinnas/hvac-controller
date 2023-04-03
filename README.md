@@ -9,7 +9,7 @@ The HVAC controller will sense and control several metrics related to HVAC.  For
 * Communication: sensor data will be displayed on the Arduino Opla display and more data regarding sensing, control, and current preferences will be available on Arduino Cloud
 * Customization: Users will be able to customize desired controller behavior using decision thresholds, timing, and room measurments, with common presets available
 * Simulation: Future activity will be projected based on static models and input thresholds
-* Diagnostics: Performance data such as compute usage, power, and battery will be made available [^note]
+* Diagnostics: Performance data such as compute usage, power, and battery will be made available [^note].  Will also include heuristics for determining component failure.
 
 
 ### Metrics
